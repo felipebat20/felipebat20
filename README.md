@@ -1,7 +1,7 @@
  <p align="center"><img src="https://komarev.com/ghpvc/?username=felipebat20" alt="felipebat20" /></p>
 
 
-<h1 align = "center"> Olá Mundo, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Meu nome é Felipe</h1>
+<h1 align = "center"> Olá Mundo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Meu nome é Felipe</h1>
 <p align = "justify">Always Learning, Front-end lover. </p>
 
 I'm learning at the moment **VueJS, Bootstrap, Laravel**
