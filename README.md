@@ -12,10 +12,7 @@ I'm learning at the moment **VueJS, Bootstrap, Laravel**
 [![Instagram Badge](https://img.shields.io/badge/-febat.codes-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/febat.codes/)](https://www.instagram.com/febat.codes)
 [![Gmail Badge](https://img.shields.io/badge/-febat@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipebatista24680@gmail.com)](mailto:felipebatista24680@gmail.com)
 
-<blockquote>
-   <p><i>The best way to predict your future is to create it.</i></p>
-   <p><i>- Abraham Lincoln</i></p>
-</blockquote>
+
 
 ## 🚀💻 Technologies & Tools
 
@@ -35,3 +32,7 @@ I'm learning at the moment **VueJS, Bootstrap, Laravel**
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=felipebat20&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipebat20&hide=TeX&layout=compact&theme=radical)
 
+<blockquote>
+   <p><i>The best way to predict your future is to create it.</i></p>
+   <p><i>- Abraham Lincoln</i></p>
+</blockquote>
