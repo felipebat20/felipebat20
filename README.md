@@ -29,8 +29,8 @@ I'm learning at the moment **VueJS, Bootstrap, Laravel**
 
 ## ⚡ GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=felipebat20&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipebat20&hide=TeX&layout=compact&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=felipebat20&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipebat20&hide=TeX&layout=compact&theme=gruvbox)
 
 <blockquote>
    <p><i>The best way to predict your future is to create it.</i></p>
