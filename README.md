@@ -9,7 +9,6 @@ I'm learning at the moment **VueJS, Bootstrap, Laravel**
 ## 📱📧 Contact
 
 [![Linkedin Badge](https://img.shields.io/badge/-febat.codes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-batista-4814b7198/)](https://www.linkedin.com/in/felipe-batista-4814b7198/)
-
 [![Gmail Badge](https://img.shields.io/badge/-febat@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipebatista24680@gmail.com)](mailto:felipebatista24680@gmail.com)
 
 
