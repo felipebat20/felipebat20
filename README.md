@@ -4,7 +4,7 @@
 <h1 align = "center"> Hello World<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Felipe.</h1>
 <p align = "justify">Always Learning, Front-end lover.  </p>
 
-I'm learning at the moment **VueJS, Bootstrap, Laravel**
+I'm learning at the moment **VueJS3, Nuxt, TailwindCSS**
 
 ## 📱📧 Contact
 
